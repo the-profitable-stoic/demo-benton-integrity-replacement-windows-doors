@@ -1,0 +1,584 @@
+{
+  "business": {
+    "name": "Benton Integrity Replacement Windows & Doors",
+    "phone": "+19044281311",
+    "category": "window replacement company",
+    "city": "Jacksonville",
+    "state": "FL"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Jacksonville's Window Replacement Experts",
+      "heroSubline": "Durable, energy-efficient windows and doors built for Florida's climate. Protect your home with Benton Integrity.",
+      "aboutTitle": "Integrity-Driven Window Solutions in North Florida",
+      "aboutText": [
+        "Benton Integrity Replacement Windows & Doors started with a simple mission: provide Jacksonville homeowners with honest, reliable service and premium window solutions that stand up to the Florida climate. We saw too many contractors cutting corners, and families paying the price.",
+        "Our approach is straightforward: meticulous craftsmanship, transparent pricing, and a commitment to exceeding expectations. We don't just install windows; we fortify your home against the elements and enhance its value. We work hard to earn trust, one window at a time.",
+        "We're proud to be a part of the Jacksonville community. We source materials locally whenever possible, support local charities, and treat every project as if it were our own home. We believe in giving back to the neighborhoods that have supported us."
+      ],
+      "valueProps": [
+        {
+          "title": "Hurricane-Rated Windows",
+          "description": "Protect your home and family from severe weather with our impact-resistant window options."
+        },
+        {
+          "title": "Energy-Efficient Solutions",
+          "description": "Reduce your energy bills and improve your home's comfort with our energy-efficient window and door installations."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Our skilled technicians ensure precise and professional installation for long-lasting performance."
+        },
+        {
+          "title": "Comprehensive Warranty",
+          "description": "Enjoy peace of mind with our industry-leading warranties on products and workmanship."
+        }
+      ],
+      "ctaHeadline": "Upgrade Your Home Today!",
+      "ctaSubline": "Get a free quote on replacement windows and doors. Call us at 904-428-1311."
+    },
+    "services": [
+      {
+        "slug": "residential-window-replacement",
+        "name": "Residential Window Replacement",
+        "shortDescription": "Enhance your home's beauty and energy efficiency with our residential window replacement services.",
+        "description": "Replacing your home's windows is a significant investment, and Benton Integrity treats it as such. We begin with a thorough assessment of your existing windows, identifying areas of concern such as drafts, leaks, and structural damage. We then guide you through our wide selection of window styles, materials, and energy-efficient options, ensuring you choose the perfect fit for your home's architecture and your personal preferences. \n\nOur expert installation team meticulously removes your old windows, prepares the openings, and installs your new windows with precision and care. We pay close attention to detail, ensuring proper sealing and insulation to maximize energy efficiency and prevent water intrusion. We handle everything from start to finish, including disposal of old windows and thorough cleanup of the work area. We understand the unique challenges Jacksonville homes face, from intense sun to hurricane season, and we provide solutions built to last.",
+        "process": [
+          "Step 1: Initial Consultation and Estimate",
+          "Step 2: Window Selection and Customization",
+          "Step 3: Professional Installation",
+          "Step 4: Final Inspection and Cleanup"
+        ],
+        "benefits": [
+          "Improved Energy Efficiency",
+          "Increased Home Value",
+          "Enhanced Curb Appeal",
+          "Greater Comfort and Security"
+        ],
+        "faq": [
+          {
+            "question": "How long does window replacement take?",
+            "answer": "The duration depends on the number of windows being replaced and the complexity of the installation. We'll provide a realistic timeline during the initial consultation."
+          },
+          {
+            "question": "What types of windows do you offer?",
+            "answer": "We offer a wide variety of window styles and materials, including vinyl, wood, aluminum, and impact-resistant options. We can help you choose the best option for your needs and budget."
+          },
+          {
+            "question": "Do you offer financing options?",
+            "answer": "Yes, we offer flexible financing options to help make your window replacement project more affordable. Contact us to learn more about our financing plans."
+          }
+        ]
+      },
+      {
+        "slug": "impact-window-installation",
+        "name": "Impact Window Installation",
+        "shortDescription": "Protect your Jacksonville home from hurricanes with our durable impact window installations.",
+        "description": "Living in Jacksonville means facing the reality of hurricane season. Impact windows are a crucial investment in protecting your home and family from the devastating effects of high winds and flying debris. Benton Integrity specializes in the installation of high-quality impact windows that meet or exceed Florida building codes. \n\nOur impact windows are designed to withstand extreme weather conditions, providing superior protection against wind, rain, and intruders. We offer a range of impact-resistant window styles and materials to complement your home's architecture and enhance its curb appeal. Our experienced installers ensure precise and secure installation, guaranteeing optimal performance and long-lasting protection. We understand the importance of peace of mind during hurricane season, and we're committed to providing our customers with the highest level of protection possible. We use only the best brands like PGT and CGI. We also handle permitting and inspections to streamline the process.",
+        "process": [
+          "Step 1: Hurricane Risk Assessment",
+          "Step 2: Impact Window Selection and Design",
+          "Step 3: Secure Installation and Reinforcement",
+          "Step 4: Post-Installation Inspection"
+        ],
+        "benefits": [
+          "Superior Hurricane Protection",
+          "Increased Home Security",
+          "Potential Insurance Discounts",
+          "Reduced Noise Pollution"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of impact windows compared to shutters?",
+            "answer": "Impact windows offer continuous protection without the need for manual deployment. They also enhance your home's appearance and provide added security."
+          },
+          {
+            "question": "Are impact windows energy-efficient?",
+            "answer": "Yes, impact windows are designed with energy-efficient features that can help reduce your energy bills and improve your home's comfort."
+          },
+          {
+            "question": "How do I know if my windows need to be replaced with impact windows?",
+            "answer": "If your current windows are old, damaged, or not rated for hurricane-force winds, it's time to consider upgrading to impact windows."
+          }
+        ]
+      },
+      {
+        "slug": "door-replacement",
+        "name": "Door Replacement",
+        "shortDescription": "Upgrade your home's entryways with our professional door replacement services.",
+        "description": "Your doors are more than just entryways; they're a reflection of your home's style and security. Benton Integrity offers comprehensive door replacement services to enhance your home's curb appeal, improve energy efficiency, and provide added security. We offer a wide selection of door styles, materials, and finishes to complement your home's architecture and your personal taste.\n\nFrom elegant front entry doors to durable patio doors, we have the perfect solution for your needs. Our experienced installers ensure precise and professional installation, guaranteeing optimal performance and long-lasting beauty. We handle everything from removing your old doors to installing new hardware and weatherstripping. We also address common issues like door frame rot often found in older Jacksonville homes. We understand the importance of a secure and energy-efficient home, and we're committed to providing our customers with the highest quality door replacement services.",
+        "process": [
+          "Step 1: Door Style and Material Selection",
+          "Step 2: Precise Measurements and Customization",
+          "Step 3: Professional Installation and Sealing",
+          "Step 4: Hardware Installation and Finishing Touches"
+        ],
+        "benefits": [
+          "Improved Home Security",
+          "Enhanced Curb Appeal",
+          "Increased Energy Efficiency",
+          "Added Home Value"
+        ],
+        "faq": [
+          {
+            "question": "What types of doors do you offer?",
+            "answer": "We offer a variety of door styles, including entry doors, patio doors, sliding glass doors, and French doors. We also offer a range of materials, such as wood, fiberglass, and steel."
+          },
+          {
+            "question": "How do I choose the right door for my home?",
+            "answer": "Consider your home's architecture, your personal style, and your budget. We can help you find the perfect door to meet your needs."
+          },
+          {
+            "question": "Do you offer door repair services?",
+            "answer": "While we primarily focus on door replacement, we can assess minor repairs during the consultation process. Significant repairs may warrant a full replacement."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-window-installation",
+        "name": "Vinyl Window Installation",
+        "shortDescription": "Affordable, durable, and energy-efficient vinyl window installation for Jacksonville homes.",
+        "description": "Vinyl windows are a popular choice for Jacksonville homeowners seeking an affordable, durable, and energy-efficient window solution. Benton Integrity offers professional vinyl window installation services to enhance your home's comfort, reduce energy bills, and improve its overall value. Vinyl windows are resistant to rot, warping, and fading, making them an ideal choice for Florida's humid climate.\n\nWe offer a wide selection of vinyl window styles and colors to complement your home's architecture and your personal taste. Our experienced installers ensure precise and professional installation, guaranteeing optimal performance and long-lasting beauty. We use only high-quality vinyl windows from trusted manufacturers, ensuring superior energy efficiency and durability. We also offer options for Low-E glass and argon gas fills to further enhance energy savings. We understand the importance of budget-friendly solutions, and we're committed to providing our customers with the best value for their investment.",
+        "process": [
+          "Step 1: Budget-Friendly Consultation",
+          "Step 2: Vinyl Window Selection and Color Matching",
+          "Step 3: Efficient Installation and Sealing",
+          "Step 4: Quality Assurance Inspection"
+        ],
+        "benefits": [
+          "Affordable Window Solution",
+          "Low Maintenance Requirements",
+          "Excellent Energy Efficiency",
+          "Durable and Long-Lasting"
+        ],
+        "faq": [
+          {
+            "question": "How long do vinyl windows last?",
+            "answer": "Vinyl windows can last for 20-30 years or more with proper care and maintenance."
+          },
+          {
+            "question": "Are vinyl windows energy-efficient?",
+            "answer": "Yes, vinyl windows are highly energy-efficient and can help reduce your energy bills."
+          },
+          {
+            "question": "Can vinyl windows be painted?",
+            "answer": "While it's not recommended, vinyl windows can be painted with a special paint formulated for vinyl. However, it's best to choose a color that you'll be happy with for years to come."
+          }
+        ]
+      },
+      {
+        "slug": "window-repair",
+        "name": "Window Repair",
+        "shortDescription": "Reliable window repair services to fix drafts, leaks, and damaged windows.",
+        "description": "Don't replace your windows prematurely! Benton Integrity offers expert window repair services to address common issues such as drafts, leaks, broken glass, and damaged frames. Our skilled technicians can diagnose the problem and provide cost-effective solutions to restore your windows to their optimal condition. We understand that window repair can be a more budget-friendly option than full replacement, and we're committed to providing our customers with honest and reliable service.\n\nWe repair all types of windows, including wood, vinyl, and aluminum. We use high-quality materials and proven techniques to ensure lasting repairs. We also offer weatherstripping and caulking services to improve energy efficiency and prevent water intrusion. We understand the importance of a comfortable and secure home, and we're committed to providing our customers with the best window repair services in Jacksonville. We often see rotting wood frames from moisture damage in older homes, and specialize in fixing that kind of problem with durable materials.",
+        "process": [
+          "Step 1: Thorough Window Inspection",
+          "Step 2: Accurate Diagnosis and Repair Options",
+          "Step 3: Professional Repair and Sealing",
+          "Step 4: Performance Testing and Quality Check"
+        ],
+        "benefits": [
+          "Cost-Effective Solution",
+          "Extends Window Lifespan",
+          "Improved Energy Efficiency",
+          "Enhanced Home Comfort"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my windows need to be repaired or replaced?",
+            "answer": "If your windows are drafty, leaking, or have significant damage, it's time to consider repair or replacement. We can assess your windows and provide honest recommendations."
+          },
+          {
+            "question": "What types of window repairs do you offer?",
+            "answer": "We offer a wide range of window repairs, including glass replacement, frame repair, weatherstripping, and caulking."
+          },
+          {
+            "question": "How much does window repair cost?",
+            "answer": "The cost of window repair depends on the extent of the damage and the type of repair needed. We'll provide a free estimate before starting any work."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-window-replacement",
+        "name": "Commercial Window Replacement",
+        "shortDescription": "Enhance your business with our commercial window replacement services.",
+        "description": "Benton Integrity Replacement Windows & Doors provides commercial window replacement services to businesses throughout Jacksonville. We understand the importance of energy efficiency, security, and aesthetics for commercial properties. Our experienced team can handle projects of any size, from small retail spaces to large office buildings. We offer a wide selection of commercial-grade windows that meet or exceed industry standards. \n\nWe work closely with business owners and property managers to understand their specific needs and budget. Our commercial window replacement services can improve your building's energy efficiency, reduce noise pollution, enhance its curb appeal, and provide added security. We offer flexible scheduling to minimize disruption to your business operations. We also handle all permitting and inspections to ensure a smooth and hassle-free process. We understand the unique challenges commercial properties face, and we're committed to providing our customers with the best commercial window replacement services in the area.",
+        "process": [
+          "Step 1: Commercial Property Assessment",
+          "Step 2: Window Selection and Design",
+          "Step 3: Professional Installation",
+          "Step 4: Final Inspection"
+        ],
+        "benefits": [
+          "Improved Energy Efficiency",
+          "Increased Property Value",
+          "Enhanced Curb Appeal",
+          "Greater Comfort and Security"
+        ],
+        "faq": [
+          {
+            "question": "Do you offer after-hours installation for commercial properties?",
+            "answer": "Yes, we offer flexible scheduling options, including after-hours installation, to minimize disruption to your business operations."
+          },
+          {
+            "question": "What types of commercial windows do you offer?",
+            "answer": "We offer a wide variety of commercial windows, including storefront windows, curtain wall systems, and energy-efficient windows."
+          },
+          {
+            "question": "Do you handle permitting and inspections for commercial window replacement?",
+            "answer": "Yes, we handle all permitting and inspections to ensure a smooth and hassle-free process."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "St. Augustine",
+        "slug": "st-augustine-fl",
+        "state": "FL",
+        "content": "Benton Integrity Replacement Windows & Doors is proud to offer our top-quality window and door replacement services to the historic city of St. Augustine, Florida. We understand the unique architectural character of St. Augustine, with its beautiful Spanish Colonial buildings and historic homes. Our team is experienced in working with a variety of architectural styles and can provide window and door solutions that enhance the beauty and preserve the integrity of your St. Augustine property.\n\nWe know that St. Augustine experiences hot, humid summers, and our energy-efficient windows and doors are designed to help you stay comfortable and save money on your energy bills. We offer a wide selection of impact-resistant windows and doors to protect your home from harsh weather. Whether you're looking to replace old, drafty windows or upgrade to more secure and energy-efficient doors, Benton Integrity is here to help.",
+        "localContext": "St. Augustine is known for its historic Spanish Colonial architecture and hot, humid summers.",
+        "nearbyAreas": [
+          "Jacksonville",
+          "Palm Coast",
+          "Fruit Cove"
+        ]
+      },
+      {
+        "city": "Orange Park",
+        "slug": "orange-park-fl",
+        "state": "FL",
+        "content": "Benton Integrity Replacement Windows & Doors is dedicated to providing Orange Park, FL, residents with exceptional window and door replacement services. Known for its suburban neighborhoods featuring many 1970s and 80s ranch-style homes, Orange Park requires window and door solutions that complement these classic designs while providing modern energy efficiency and security.\n\nWe offer a wide range of window and door styles to suit any Orange Park home, from traditional double-hung windows to sleek sliding patio doors. Our team will work with you to find the perfect solution that meets your needs and budget. We understand the importance of protecting your home from the hot, humid Florida climate, and our energy-efficient options can help you save money on your energy bills while maintaining a comfortable indoor environment.",
+        "localContext": "Orange Park features suburban ranch homes common in the 1970s and 80s and faces hot, humid summers.",
+        "nearbyAreas": [
+          "Jacksonville",
+          "Middleburg",
+          "Bellair-Meadowbrook Terrace"
+        ]
+      },
+      {
+        "city": "Jacksonville",
+        "slug": "jacksonville-fl",
+        "state": "FL",
+        "content": "Benton Integrity Replacement Windows & Doors is your trusted source for premium window and door replacement services in Jacksonville, Florida. As the largest city in Florida, Jacksonville boasts a diverse range of architectural styles, from historic homes in Riverside and Avondale to modern residences in gated communities. We are committed to providing Jacksonville homeowners with the highest quality products and expert installation services.\n\nWhether you're looking to enhance the curb appeal of your home, improve energy efficiency, or increase security, we have the perfect window and door solutions for you. Our team will work closely with you to understand your specific needs and preferences, and we'll provide you with a customized solution that fits your budget. We are dedicated to exceeding your expectations and ensuring your complete satisfaction.",
+        "localContext": "Jacksonville is a large, diverse city with a wide range of architectural styles.",
+        "nearbyAreas": [
+          "Orange Park",
+          "St. Augustine",
+          "Fernandina Beach"
+        ]
+      },
+      {
+        "city": "Fernandina Beach",
+        "slug": "fernandina-beach-fl",
+        "state": "FL",
+        "content": "Benton Integrity Replacement Windows & Doors proudly serves Fernandina Beach, Florida, offering exceptional window and door replacement services. Fernandina Beach, with its historic downtown and beautiful coastline, presents unique architectural considerations. We understand the importance of preserving the character of Fernandina Beach homes while providing modern energy efficiency and security.\n\nOur team is experienced in working with a variety of architectural styles, from Victorian-era homes to coastal cottages. We offer a wide selection of window and door styles to complement any Fernandina Beach home. We also understand the importance of protecting your home from the elements, including hurricanes and tropical storms. Our impact-resistant windows and doors are designed to withstand high winds and flying debris, providing you with peace of mind.",
+        "localContext": "Fernandina Beach has a historic downtown and beautiful coastline and is susceptible to hurricanes.",
+        "nearbyAreas": [
+          "Jacksonville",
+          "Yulee",
+          "Amelia City"
+        ]
+      },
+      {
+        "city": "Ponte Vedra Beach",
+        "slug": "ponte-vedra-beach-fl",
+        "state": "FL",
+        "content": "Benton Integrity Replacement Windows & Doors provides top-notch window and door replacement services to the residents of Ponte Vedra Beach, Florida. Known for its upscale homes and beautiful beaches, Ponte Vedra Beach demands high-quality products and expert installation. We are committed to providing Ponte Vedra Beach homeowners with the best possible service.\n\nWe offer a wide range of window and door styles to complement any Ponte Vedra Beach home, from traditional to contemporary. Our team will work with you to find the perfect solution that meets your needs and budget. We also understand the importance of protecting your home from the elements, including saltwater corrosion. Our windows and doors are designed to withstand the harsh coastal environment, ensuring long-lasting performance.",
+        "localContext": "Ponte Vedra Beach features upscale homes and beautiful beaches and is exposed to saltwater corrosion.",
+        "nearbyAreas": [
+          "Jacksonville Beach",
+          "Nocatee",
+          "Palm Valley"
+        ]
+      },
+      {
+        "city": "Jacksonville Beach",
+        "slug": "jacksonville-beach-fl",
+        "state": "FL",
+        "content": "Benton Integrity Replacement Windows & Doors is committed to providing Jacksonville Beach, Florida, residents with exceptional window and door replacement services. Living near the ocean requires windows and doors that can withstand the elements. We understand the unique needs of Jacksonville Beach homeowners and offer a wide range of products designed to withstand the harsh coastal environment.\n\nOur impact-resistant windows and doors are specifically designed to protect your home from hurricanes and tropical storms. We also offer a variety of energy-efficient options that can help you save money on your energy bills. Whether you're looking to replace old, drafty windows or upgrade to more secure and energy-efficient doors, Benton Integrity is here to help.",
+        "localContext": "Jacksonville Beach is a coastal community that requires windows and doors that can withstand saltwater and storms.",
+        "nearbyAreas": [
+          "Neptune Beach",
+          "Atlantic Beach",
+          "Ponte Vedra Beach"
+        ]
+      },
+      {
+        "city": "Neptune Beach",
+        "slug": "neptune-beach-fl",
+        "state": "FL",
+        "content": "Benton Integrity Replacement Windows & Doors is proud to serve the community of Neptune Beach, Florida, with high-quality window and door replacement services. As a coastal community, Neptune Beach faces unique challenges, including saltwater exposure and the threat of hurricanes. We are committed to providing Neptune Beach homeowners with durable and reliable products that will protect their homes for years to come.\n\nOur impact-resistant windows and doors are designed to withstand high winds and flying debris. We also offer a variety of energy-efficient options that can help you save money on your energy bills. Our team is dedicated to providing exceptional customer service and ensuring your complete satisfaction.",
+        "localContext": "Neptune Beach is a coastal community that requires windows and doors that can withstand saltwater and storms.",
+        "nearbyAreas": [
+          "Atlantic Beach",
+          "Jacksonville Beach",
+          "Mayport"
+        ]
+      },
+      {
+        "city": "Atlantic Beach",
+        "slug": "atlantic-beach-fl",
+        "state": "FL",
+        "content": "Benton Integrity Replacement Windows & Doors offers top-quality window and door replacement services to the residents of Atlantic Beach, Florida. Located right on the Atlantic Ocean, Atlantic Beach homes require windows and doors that can withstand harsh weather conditions, including salt spray and strong winds. We understand these challenges and provide solutions tailored to the needs of Atlantic Beach homeowners.\n\nWe specialize in impact-resistant windows and doors that offer superior protection from hurricanes and tropical storms. These products are designed to withstand high winds and flying debris, keeping your home and family safe. We also offer energy-efficient options that can help you save money on your energy bills while maintaining a comfortable indoor environment.",
+        "localContext": "Atlantic Beach is a coastal community that requires windows and doors that can withstand saltwater and storms.",
+        "nearbyAreas": [
+          "Neptune Beach",
+          "Jacksonville Beach",
+          "Mayport"
+        ]
+      },
+      {
+        "city": "Middleburg",
+        "slug": "middleburg-fl",
+        "state": "FL",
+        "content": "Benton Integrity Replacement Windows & Doors is pleased to provide window and door replacement services to the residents of Middleburg, Florida. Middleburg, located inland from Jacksonville, experiences the full force of Florida weather, including hot summers and occasional severe storms. We offer a range of window and door products designed to withstand these conditions and improve the energy efficiency of your home.\n\nFrom energy-efficient windows that help keep your home cool in the summer to durable doors that provide security and protection, we have the right solutions for your needs. Our experienced team will work closely with you to assess your specific requirements and recommend the best products for your home. We are committed to providing exceptional customer service and ensuring your complete satisfaction.",
+        "localContext": "Middleburg experiences hot summers and occasional severe storms.",
+        "nearbyAreas": [
+          "Orange Park",
+          "Green Cove Springs",
+          "Lake Asbury"
+        ]
+      },
+      {
+        "city": "Fruit Cove",
+        "slug": "fruit-cove-fl",
+        "state": "FL",
+        "content": "Benton Integrity Replacement Windows & Doors is proud to offer our window and door replacement services to the growing community of Fruit Cove, Florida. Known for its family-friendly atmosphere and beautiful homes, Fruit Cove deserves high-quality products and reliable service. We are committed to providing Fruit Cove homeowners with the best possible experience.\n\nWe offer a wide selection of window and door styles to complement any Fruit Cove home, from traditional to modern. Our team will work with you to find the perfect solution that meets your needs and budget. We also understand the importance of energy efficiency, and our products are designed to help you save money on your energy bills while keeping your home comfortable year-round.",
+        "localContext": "Fruit Cove is a family-friendly community with beautiful homes that benefit from energy-efficient windows and doors.",
+        "nearbyAreas": [
+          "St. Johns",
+          "Switzerland",
+          "Mandarin"
+        ]
+      },
+      {
+        "city": "Palatka",
+        "slug": "palatka-fl",
+        "state": "FL",
+        "content": "Benton Integrity Replacement Windows & Doors is dedicated to providing Palatka, Florida, with reliable and affordable window and door replacement services. Palatka, located on the St. Johns River, experiences a humid subtropical climate. We understand the importance of energy-efficient windows and doors in maintaining a comfortable home environment and reducing energy costs.\n\nWe offer a variety of window and door options to suit any Palatka home and budget. Our team will work with you to find the perfect solution that meets your needs. Whether you're looking to replace old, drafty windows or upgrade to more secure and energy-efficient doors, Benton Integrity is here to help.",
+        "localContext": "Palatka is located on the St. Johns River and has a humid subtropical climate, making energy efficiency important.",
+        "nearbyAreas": [
+          "East Palatka",
+          "San Mateo",
+          "Crescent City"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Residential Window Replacement",
+        "text": "Benton Integrity did an amazing job replacing all the windows in my Ortega Forest home. The crew was professional, efficient, and cleaned up everything perfectly. My house looks so much better, and I've already noticed a difference in my energy bill! I highly recommend them.",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Impact Window Installation",
+        "text": "Great experience with Benton Integrity. They installed impact windows throughout my beach house. The installation team was very knowledgeable and answered all my questions. They were a little behind schedule, but the quality of work was worth the wait. Glad to have peace of mind during hurricane season.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Jessica P.",
+        "rating": 5,
+        "service": "Door Replacement",
+        "text": "We replaced our old front door with a beautiful new fiberglass door from Benton Integrity. The installers were punctual, courteous, and did a fantastic job. The door looks amazing and has really improved the curb appeal of our home. Highly recommend their door replacement service!",
+        "date": "2024-09-08"
+      },
+      {
+        "name": "Robert L.",
+        "rating": 5,
+        "service": "Vinyl Window Installation",
+        "text": "We chose Benton Integrity for our vinyl window replacement project because of their competitive pricing and excellent reputation. The team was professional and efficient, and the windows look great. Our home is much more comfortable, and we're saving money on our energy bills.",
+        "date": "2024-07-12"
+      },
+      {
+        "name": "Michelle T.",
+        "rating": 4,
+        "service": "Window Repair",
+        "text": "Benton Integrity repaired several of our windows that were leaking and drafty. They were able to fix the problems quickly and efficiently, saving us the cost of replacing the windows. Very happy with their service!",
+        "date": "2024-05-01"
+      },
+      {
+        "name": "Kevin S.",
+        "rating": 5,
+        "service": "Commercial Window Replacement",
+        "text": "Benton Integrity replaced all the windows in our office building. The team was professional, efficient, and minimized disruption to our business operations. The new windows look great and have improved the energy efficiency of our building. Highly recommend them for commercial projects!",
+        "date": "2024-02-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Jacksonville Window Replacement | Benton Integrity",
+        "description": "Expert window & door replacement in Jacksonville, FL. Hurricane-rated options. Free quotes. Call Benton Integrity today!"
+      },
+      "about": {
+        "title": "About Benton Integrity - Jacksonville Window Experts",
+        "description": "Learn about Benton Integrity's commitment to quality window & door replacement in Jacksonville, FL. Honest service, reliable results."
+      },
+      "services": {
+        "title": "Jacksonville Window & Door Services | Benton Integrity",
+        "description": "Comprehensive window & door services in Jacksonville, FL. Impact windows, energy-efficient options. Free estimates. Call today!"
+      },
+      "contact": {
+        "title": "Contact Benton Integrity - Jacksonville Window Quotes",
+        "description": "Contact Benton Integrity for free window & door replacement quotes in Jacksonville, FL. Call (904) 428-1311 today!"
+      },
+      "reviews": {
+        "title": "Benton Integrity Reviews - Jacksonville Window Company",
+        "description": "Read reviews for Benton Integrity Replacement Windows & Doors in Jacksonville, FL. See what our satisfied customers are saying!"
+      },
+      "service-areas": {
+        "title": "Jacksonville Window Replacement Service Areas",
+        "description": "Benton Integrity serves Jacksonville, St. Augustine, Orange Park, and surrounding areas. Expert window and door replacement."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "residential-window-replacement": "/images/service-residential-window-replacement.webp",
+      "impact-window-installation": "/images/service-impact-window-installation.webp",
+      "door-replacement": "/images/service-door-replacement.webp",
+      "vinyl-window-installation": "/images/service-vinyl-window-installation.webp",
+      "window-repair": "/images/service-window-repair.webp",
+      "commercial-window-replacement": "/images/service-commercial-window-replacement.webp"
+    },
+    "servicesResponsive": {
+      "residential-window-replacement": {
+        "src": "/images/service-residential-window-replacement.webp",
+        "srcset": "/images/service-residential-window-replacement-400w.webp 400w, /images/service-residential-window-replacement-800w.webp 800w, /images/service-residential-window-replacement-1200w.webp 1200w, /images/service-residential-window-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "impact-window-installation": {
+        "src": "/images/service-impact-window-installation.webp",
+        "srcset": "/images/service-impact-window-installation-400w.webp 400w, /images/service-impact-window-installation-800w.webp 800w, /images/service-impact-window-installation-1200w.webp 1200w, /images/service-impact-window-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "door-replacement": {
+        "src": "/images/service-door-replacement.webp",
+        "srcset": "/images/service-door-replacement-400w.webp 400w, /images/service-door-replacement-800w.webp 800w, /images/service-door-replacement-1200w.webp 1200w, /images/service-door-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-window-installation": {
+        "src": "/images/service-vinyl-window-installation.webp",
+        "srcset": "/images/service-vinyl-window-installation-400w.webp 400w, /images/service-vinyl-window-installation-800w.webp 800w, /images/service-vinyl-window-installation-1200w.webp 1200w, /images/service-vinyl-window-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "window-repair": {
+        "src": "/images/service-window-repair.webp",
+        "srcset": "/images/service-window-repair-400w.webp 400w, /images/service-window-repair-800w.webp 800w, /images/service-window-repair-1200w.webp 1200w, /images/service-window-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-window-replacement": {
+        "src": "/images/service-commercial-window-replacement.webp",
+        "srcset": "/images/service-commercial-window-replacement-400w.webp 400w, /images/service-commercial-window-replacement-800w.webp 800w, /images/service-commercial-window-replacement-1200w.webp 1200w, /images/service-commercial-window-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
